@@ -1,0 +1,40 @@
+
+.check{
+    width:70px;
+    height: 72px;
+    background-color: rgb(100, 100, 94);
+    color:white;
+    font-size: 20px;
+    border-radius: 50px;
+}
+.operate{
+    background-color: #f69906;
+}
+.check:hover{
+    color: black;
+    border: 1px solid white;
+}
+.buttons{
+    display: flex;
+    flex-flow: wrap;
+    margin-left: 10px;
+    width: inherit;
+    flex-direction: row;
+}
+.left{
+    width:73%;
+    padding-top:-10px
+}
+.right{
+    width:2%;
+}
+#clear{
+    width: 140px;
+    background-color: brown;
+    color:white;
+    font-size: 15px;
+}
+#zero{
+    width: 140px; 
+}
+

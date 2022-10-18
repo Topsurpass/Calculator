@@ -1,0 +1,18 @@
+.App{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #746e6e;
+    flex-direction: column;
+}
+.calcWrapper{
+    width: 288px;
+    height: auto;;
+    border: 3px solid grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 20px;
+}
